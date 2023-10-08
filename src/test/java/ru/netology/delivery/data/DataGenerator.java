@@ -47,4 +47,4 @@ public class DataGenerator {
         String name;
         String phone;
     }
-}
+}   
